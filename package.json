@@ -1,0 +1,13 @@
+{
+  "name": "leap-sdk",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "dependencies" : {
+    "ws"  : "",
+    "leapjs": "0.2.0-beta6",
+    "coffeescript": ""
+  }
+}
